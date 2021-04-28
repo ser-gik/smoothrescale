@@ -1,0 +1,4 @@
+This project is dual-licensed. User is free to choose either BSD 2-Clause or GPLv2 license
+(see COPYING.BSD and COPYING.GPL2) as long as FFmpeg dependency libraries are dynamically linked
+and are free of GPL components. Otherwise this project is licensed under terms of GPLv2.
+

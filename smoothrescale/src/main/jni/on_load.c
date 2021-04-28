@@ -1,3 +1,5 @@
+/* SPDX-License-Identifier: (BSD-2-Clause or GPL-2.0-only) */
+
 #include <stddef.h>
 #include <stdint.h>
 #include <jni.h>
